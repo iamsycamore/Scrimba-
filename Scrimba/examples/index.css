@@ -1,0 +1,68 @@
+body{
+    background-color: lightcyan;
+    color: darkblue;
+    font-size: 24px;
+    text-align: center;
+}
+
+h1{
+    font-size: 48px;
+    color: chartreuse;
+}
+
+h2{
+    font-size: 30px;
+    color: darkmagenta;
+}
+
+#header{
+    padding: 50px;
+    margin: 0 auto;
+    border: 5px solid;
+    background-color: cornflowerblue;
+}
+
+.main{
+    padding: 20px;
+    margin: 0 auto;
+    background-color: coral;
+}
+
+.main1{
+    text-align: center;
+    margin: auto 100px;
+    text-align: justify;
+}
+
+.main3{
+    margin: 50px auto;
+}
+
+a{
+    color: lightblue;
+}
+
+.footer1{
+    background-color: green;
+    color: lightblue;
+    text-align: center;   
+}
+
+.footcol1{
+    display: flex;
+    margin: 0px 10px;
+    padding: 30px 30px; 
+    border: 5px solid black;   
+}
+
+.footcol2{
+    margin: 0px auto;  
+}
+
+.footcol3{
+    margin: 0px 200px;
+}
+
+.footcol4{
+    margin: 0px 100px;
+}

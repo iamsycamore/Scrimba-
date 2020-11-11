@@ -1,0 +1,39 @@
+body{
+    background-color: darkgray;
+}
+
+.intro{
+    font-size: 30px;
+    color: lightsalmon;
+    background-color: blue;
+    padding: 10px;
+    width: 250px;
+}
+
+#title{
+    color: hotpink;
+    background-color: black;
+    font-size: 60px;
+    text-align: center;
+    border: 10px;
+    padding: 30px;
+    margin: 50px;
+}
+
+header{
+    color: blue;
+    background-color: black;
+    width: 600px;
+    margin: 25px;
+    font-size: 40px;
+}
+
+h3{
+    font-size: 30px;
+    color: khaki;
+    width: 150px;
+    margin: 10px;
+    border: 10px green solid;
+    border-bottom-color:red;
+    padding: 5px 25px;
+}
